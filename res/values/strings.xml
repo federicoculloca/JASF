@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="JASFmsg">Exit to restore original screen brightness</string>
+    <string name="app_name">JASF</string>
+    <string name="credits">JASF - by Federico Culloca</string>
+</resources>
